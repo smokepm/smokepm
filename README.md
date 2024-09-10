@@ -11,8 +11,8 @@
   ```css
   smokepm@GitHub
   -----------------
-  Name: Luca
-  OS: Artix x86_64
+  Name: Parker
+  OS: Fedora 40
   Languages: ["Python", "R"]
   Interests: ["Econometrics", "Linux", "Mathematical Economics",
               "Health Economics", "Machine and Deep Learning"]  
