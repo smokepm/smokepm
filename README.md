@@ -6,7 +6,7 @@
 ```
  
 
-<div style="display:block;text-align:left"><img align="left" src="https://www.pngegg.com/en/png-eucnj" border="0" style="width:156px;">
+<div style="display:block;text-align:left"><img align="left" src="![image](https://github.com/user-attachments/assets/bd884122-f8b0-4172-84be-9b5a06d2680a)" border="0" style="width:156px;">
   
   ```css
   smokepm@GitHub
