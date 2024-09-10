@@ -1,18 +1,25 @@
-<h1 align="center">
-  <img src="Readme Neofetch.svg">
-</h1>
 
-<!--
-**Suzie97/Suzie97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+```css
+┌[smokepm@git]-(~)
+└> mefetch
+```
+ 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display:block;text-align:left"><img align="left" src="https://www.pngegg.com/en/png-eucnj" border="0" style="width:156px;">
+  
+  ```css
+  smokepm@GitHub
+  -----------------
+  Name: Parker
+  OS: Fedora 40
+  Languages: ["Python", "R", "Bash"]
+  Interests: ["Econometrics", "Linux", "Mathematical Economics",
+              "Machine and Deep Learning", "Economic Inequality"]  
+Uptime: 22 Years
+  ```
+</div>
+
+
+
+
