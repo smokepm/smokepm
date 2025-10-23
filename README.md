@@ -12,7 +12,7 @@
   smokepm@GitHub
   -----------------
   Name: Parker
-  OS: Fedora 40
+  OS: Fedora
   Languages: ["Python", "R", "STATA", "SQL", "LaTeX"]
   Interests: ["Econometrics", "Linux",
               "Health Economics", "Machine and Deep Learning"]  
