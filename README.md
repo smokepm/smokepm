@@ -13,10 +13,10 @@
   -----------------
   Name: Parker
   OS: Fedora 40
-  Languages: ["Python", "R"]
-  Interests: ["Econometrics", "Linux", "Mathematical Economics",
+  Languages: ["Python", "R", "STATA", "SQL", "LaTeX"]
+  Interests: ["Econometrics", "Linux",
               "Health Economics", "Machine and Deep Learning"]  
-Uptime: 22 Years
+Uptime: 23 Years
   ```
 </div>
 
